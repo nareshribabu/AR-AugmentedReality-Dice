@@ -10,6 +10,7 @@ iOS augmented reality dice app
 
 ## Demo:
 <a href="https://media.giphy.com/media/h8UHnOMZUtfqtgBix7/giphy.gif"><img src="https://media.giphy.com/media/h8UHnOMZUtfqtgBix7/giphy.gif" title="ARdice"/></a>
+![](ARDice.mp4)
 
 ## Technology Used:
 - Swift
