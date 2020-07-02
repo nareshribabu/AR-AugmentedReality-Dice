@@ -9,7 +9,7 @@ iOS augmented reality dice app
 - Users can click the 🗑 (garbage) button to clear the screen of all dice
 
 ## Demo:
-<a href="https://giphy.com/gifs/jSWZywWSS7jECRitTb"><img src="https://giphy.com/gifs/jSWZywWSS7jECRitTb" title="ARdice"/></a>
+<a href="https://media.giphy.com/media/jSWZywWSS7jECRitTb/giphy.gif"><img src="https://media.giphy.com/media/jSWZywWSS7jECRitTb/giphy.gif" title="ARdice"/></a>
 
 ## Technology Used:
 - Swift
