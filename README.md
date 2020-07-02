@@ -9,7 +9,7 @@ iOS augmented reality dice app
 - Users can click the 🗑 (garbage) button to clear the screen of all dice
 
 ## Demo:
-<a href="https://media.giphy.com/media/RlYXzeOpq7WdPhXv9l/giphy.gif"><img src="https://media.giphy.com/media/RlYXzeOpq7WdPhXv9l/giphy.gif" title="dice"/></a>
+<a href="https://media.giphy.com/media/dBlaymYe1kdK8Y3MvL/giphy.gif"><img src="https://media.giphy.com/media/dBlaymYe1kdK8Y3MvL/giphy.gif" title="dice"/></a>
 
 ## Technology Used:
 - Swift
@@ -17,4 +17,7 @@ iOS augmented reality dice app
 - Scene Kit
 
 ## Notes:
--
+- This app is made for learning purposes only.
+- All images were only used for learning purposes and do not belong to me.
+  - https://www.canva.com/
+
